@@ -34,4 +34,5 @@ This project helps in understanding:
 ## 👨‍💻 Author
 
 Aman Kumar
-B.Tech Student | Java Developer
+
+ B.Tech Student | Java Developer
