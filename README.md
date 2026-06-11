@@ -24,11 +24,11 @@ A simple console-based Flight Booking System developed in Java. This project all
 
 This project helps in understanding:
 
-Java Fundamentals
-User Input Handling
-Arrays
-Decision Making Statements
-Console-Based Application Development
+-Java Fundamentals
+-User Input Handling
+-Arrays
+-Decision Making Statements
+-Console-Based Application Development
 
 
 ## 👨‍💻 Author
