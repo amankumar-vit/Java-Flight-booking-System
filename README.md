@@ -20,7 +20,7 @@ A simple console-based Flight Booking System developed in Java. This project all
 - Conditional Statements
 - Scanner Class
 
-##🎯 Learning Objectives
+## 🎯 Learning Objectives
 
 This project helps in understanding:
 
@@ -31,7 +31,7 @@ Decision Making Statements
 Console-Based Application Development
 
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 Aman Kumar
 B.Tech Student | Java Developer
